@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-<body background="https://www.shutterstock.com/image-illustration/3d-nature-forest-animals-wallpaper-600w-1707263671.jpg">
+<body background="https://images2.alphacoders.com/521/521718.jpg">
 </body>
 </html>
